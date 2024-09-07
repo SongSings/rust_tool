@@ -1,0 +1,9 @@
+[package]
+name = "rust_tool"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+cocoa = "0.24.0"
+objc = "0.2"
+notify-rust = "4.5"
